@@ -1,5 +1,5 @@
 
-# Digital Image Processing – Spring Semester 2025
+# Digital Image Processing – ECE AUTH 2024-2025
 
 This repository contains the implementations and reports of three programming assignments developed for the course **Digital Image Processing (DIP)** at the School of Electrical and Computer Engineering, Aristotle University of Thessaloniki (AUTH), during the **Spring Semester of the academic year 2024–2025**.
 
