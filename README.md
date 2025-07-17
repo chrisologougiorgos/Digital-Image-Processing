@@ -58,8 +58,3 @@ Department of Electrical and Computer Engineering
 Aristotle University of Thessaloniki
 
 ---
-
-## 📜 License
-
-This repository is intended for educational and personal use only.
-
